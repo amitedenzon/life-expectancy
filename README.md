@@ -1,6 +1,6 @@
 # Life Expectancy
 
-This project investigates the key factors that affect life expectancy, exploring variables like education, income composition, alcohol consumption, BMI, and HIV/AIDS prevalence. Our analysis leverages data science techniques to identify which of these features have the most significant impact on predicting life expectancy across different populations.
+This project's approach was to build a multivariate model to forecast life expectancy based on the most significant health-related features. With all relevant predictors under the significance threshold of 0.05, these findings emphasize the critical role of education and mostly economic well-being in fostering longer, healthier lives!
 
 ## Project Structure
 
